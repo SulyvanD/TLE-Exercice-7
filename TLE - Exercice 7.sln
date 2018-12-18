@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLE - Exercice 7", "TLE - Exercice 7\TLE - Exercice 7.csproj", "{2488910B-8CC9-498B-80E7-6DE184017765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2488910B-8CC9-498B-80E7-6DE184017765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2488910B-8CC9-498B-80E7-6DE184017765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2488910B-8CC9-498B-80E7-6DE184017765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2488910B-8CC9-498B-80E7-6DE184017765}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6895D424-9685-4FCC-9B2A-3C8391468961}
+	EndGlobalSection
+EndGlobal
